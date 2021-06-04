@@ -2,7 +2,7 @@ name: "website"
 title: "Aliza Aziz Lakho"
 description: |
   Insert a stats pun
-output_dir: "_site"
+output_dir: "docs"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
@@ -13,12 +13,6 @@ navbar:
       href: index.html
     - text: "Projects"
       href: projects.html
-    #- text: "CV"
-      #href: projects.html
-    #- text: "Hobbies"
-      #href: projects.html
-    #- text: "Blog"
-      #href: projects.html
     - icon: fa fa-github
       href: https://github.com/alizaazizlakho
     - icon: fa fa-linkedin
