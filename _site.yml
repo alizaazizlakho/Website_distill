@@ -13,6 +13,12 @@ navbar:
       href: index.html
     - text: "Projects"
       href: projects.html
+    #- text: "CV"
+      #href: projects.html
+    #- text: "Hobbies"
+      #href: projects.html
+    #- text: "Blog"
+      #href: projects.html
     - icon: fa fa-github
       href: https://github.com/alizaazizlakho
     - icon: fa fa-linkedin
