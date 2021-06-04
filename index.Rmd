@@ -1,0 +1,40 @@
+---
+title: "Aliza Aziz Lakho"
+description: |
+  Insert a stats pun
+site: distill::distill_website
+image: "images/image.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/aliza-aziz-lakho"
+  #- label: Twitter
+  #  url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/alizaazizlakho"
+  - label: Email
+    url: "mailto:aliza.lakho@mail.utoronto.ca"
+output:
+  postcards::trestles
+---
+## Bio
+
+Under Construction
+
+## Education
+
+Under Construction
+
+## Experience
+
+Under Construction
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
