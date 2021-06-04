@@ -1,0 +1,25 @@
+name: "website"
+title: "Aliza Aziz Lakho"
+description: |
+  Insert a stats pun
+output_dir: "_site"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - icon: fa fa-github
+      href: https://github.com/alizaazizlakho
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/aliza-aziz-lakho
+    - icon: fa fa-envelope
+      href: mailto:aliza.lakho@mail.utoronto.ca
+output:
+    distill::distill_article:
+        toc: true
+        toc_depth: 3
