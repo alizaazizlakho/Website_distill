@@ -1,15 +1,9 @@
 name: "website"
 title: "Aliza Aziz Lakho"
-<<<<<<< HEAD
 output_dir: "docs"
-=======
 description: |
   Insert a stats pun
 output_dir: "docs"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
->>>>>>> 07a6ef819ba078b241956731939acfd7abd8d351
 
 navbar:
   search: true
