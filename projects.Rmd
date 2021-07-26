@@ -16,6 +16,24 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Python Projects
+
+#Twitter Sentiment Analysis:
+-Analyzed Tweet dataset that had flagged the tweets as Positive Tweets and Negative Tweets and used Seaborn and Wordcloud to compare the differences between positive and negative tweets.
+-Performed Data Cleaning to remove the punctuation and stop words from the tweets for count vectorization
+-Trained a Naive Bayes Classifier on 10% of the data and used Confusion Matrix to assess the model transformation with 96% precision for prediction of positive tweets and 49% precision for prediction of negative tweets.
+
+#Covid 19 and its effects on Life (Python):
+-Extracted, cleaned and interpreted data from the Covid-19 dataset and World Happiness Report using python.
+-Plotted Simple Linear Regression using Seaborn to find the relationship between the maximum infection rate and GDP per capita, Social support, Healthy Life Expectancy, Freedom to make life choices for every country. 
+
+#Titanic Survival (Python):
+-Worked with data that contained information about Titanic passengers to predict whether they would have survived using their Gender, Age, the Fare they paid, and their Passenger class. 
+-Used Seaborn to view the relationship between the Survival chances of the passengers and their Gender, Age, Fare, and Passenger class. This helped identify the characteristics that increased the chance of survival and ones that did not.
+-Trained a Random Forest Classification on the train data to fit the model to make necessary predictions. Used .score() from sklearn to assess model performance with 85.85% accuracy of the model.
+
+#Home Price Predictions (Python):
+-Used data related to Houses such as 'LotArea', 'YearBuilt', ‘1st Floor SF', ‘YrSold’ etcetera to determine a relationship between house features and the house price. Extracted, cleaned and interpreted data from the test dataset using python.
+-Used Random Forest Regressor from sklearn to make a predictive model having 97.37 accuracy and about 16702 of mean absolute error for the house price where the house prices ranged from 34900 to 755000.
 ## R porjects
 
-
+## Tableau porjects

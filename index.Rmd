@@ -18,11 +18,17 @@ output:
 ---
 ## Bio
 
-Under Construction
+- Emerging Data Analyst with experience in analyzing data, designing dashboards and delivering solutions.
+- IT Skills: MS Office (Excel, Word, PowerPoint), programming languages (Python, R, SQL, Visual basic. Net 2007), data visualization (Tableau) and, Latex and Git.
+- Languages: English, Urdu, Sindhi, French (Beginner).
+- Strong analytical, problem solving, communication, and project management skills and the ability to deliver on time.
+- Leadership and Teamwork skills demonstrated by key roles in various student clubs from High School to University.
 
 ## Education
 
-Under Construction
+University of Toronto - St. George (UTSG)
+CGPA 3.49 | Expected May 2023
+Bachelors of Science
 
 ## Experience
 
